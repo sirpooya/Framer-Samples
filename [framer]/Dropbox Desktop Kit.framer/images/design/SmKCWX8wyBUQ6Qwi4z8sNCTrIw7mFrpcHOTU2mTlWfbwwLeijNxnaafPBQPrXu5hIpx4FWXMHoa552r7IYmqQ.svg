@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>iconRefresh</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconRefresh">
+            <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="15.0053986 1 24 6.50539807 15 12"></polygon>
+            <path d="M27,17.1587656 C26.9123626,23.2336612 21.916295,28.0864644 15.8414434,27.9988316 C9.76659193,27.9111988 4.91353104,22.9157631 5.00116848,16.8412342 C5.08880593,10.7674386 10.0845068,5.91353537 16.1593584,6.00116816" id="Shape" stroke="#000000" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

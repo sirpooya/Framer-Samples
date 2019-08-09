@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="16px" viewBox="0 0 8 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>form-switcher</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Files" transform="translate(-206.000000, -614.000000)" fill="#C1C7CD">
+            <g id="switcher">
+                <g transform="translate(24.000000, 579.000000)">
+                    <g id="Rectangle-284-+-Rectangle-284-Copy">
+                        <g id="Group">
+                            <g id="form-switcher" transform="translate(182.000000, 35.000000)">
+                                <path d="M5.5,5 L7.76000214,5 L4.01000214,0 L0.260002136,5 L2.5,5 L4,3 L5.5,5 Z" id="Combined-Shape"></path>
+                                <path d="M5.5,16 L7.76000214,16 L4.01000214,11 L0.260002136,16 L2.5,16 L4,14 L5.5,16 Z" id="Combined-Shape" transform="translate(4.010002, 13.500000) scale(1, -1) translate(-4.010002, -13.500000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
